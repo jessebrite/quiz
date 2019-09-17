@@ -1,18 +1,5 @@
 'use strict';
 
-// const quiz = [
-//   { name: 'Superman',realName: 'Clark Kent' },
-//   { name: 'Wonder Woman',realName: 'Diana Prince' },
-//   { name: 'Green Arrow', realName: 'Oliver Queen' },
-//   { name: 'Batman', realName: 'Bruce Wayne' },
-//   { name: 'Spiderman', realName: 'Peter Parker' },
-//   { name: 'Hulk', realName: 'Bruce Banner' },
-//   { name: 'Cyclops', realName: 'Scott Summers' },
-//   { name: 'Aquaman', realName: 'Arthur Curry' },
-//   { name: 'Flash', realName: 'Barry Allen' },
-// ];
-
-
 const textURL = 'http://numbersapi.com/random';
 const proxy_url = "https://cors-anywhere.herokuapp.com/";
 const url = 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/questions.json';
